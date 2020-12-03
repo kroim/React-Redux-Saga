@@ -1,8 +1,7 @@
 # React-Redux-SAGA-tutorial-APP
 Simple React-Redux-Saga App  developed for the test
 
-[Online DEMO](https://sagatutorialapp.netlify.app/){:target="_blank" rel="noopener"}
-
+[Online DEMO](https://sagatutorialapp.netlify.app/)
 
 ### Usage
 
@@ -13,7 +12,7 @@ npm install
 npm start
 open http://localhost:8080{:target="_blank" rel="noopener"}  (should start automatically )
 ```
-[link](https://sagatutorialapp.netlify.app/){:target="_blank"}
+
 ### Available Commands
 
 ```
