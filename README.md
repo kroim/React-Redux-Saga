@@ -11,7 +11,7 @@ git clone https://github.com/kroim/React-Redux-Saga.git
 cd React-Redux-Saga
 npm install
 npm start
-open http://localhost:8080  (should start automatically )
+open http://localhost:8080{:target="_blank" rel="noopener"}  (should start automatically )
 ```
 
 ### Available Commands
