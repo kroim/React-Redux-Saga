@@ -1,7 +1,7 @@
 # React-Redux-SAGA-tutorial-APP
 Simple React-Redux-Saga App  developed for the test
 
-[Online DEMO](https://sagatutorialapp.netlify.app/)
+[Online DEMO](https://sagatutorialapp.netlify.app/){:target="_blank" rel="noopener"}
 
 
 ### Usage
