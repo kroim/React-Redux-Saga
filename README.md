@@ -13,7 +13,7 @@ npm install
 npm start
 open http://localhost:8080{:target="_blank" rel="noopener"}  (should start automatically )
 ```
-
+[link](https://sagatutorialapp.netlify.app/){:target="_blank"}
 ### Available Commands
 
 ```
