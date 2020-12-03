@@ -7,8 +7,8 @@ Simple React-Redux-Saga App  developed for the [tutorial article](https://medium
 ### Usage
 
 ```
-git clone https://github.com/Lavitr/React-Redux-SAGA-tutorial-APP.git
-cd React-Redux-SAGA-tutorial-APP
+git clone https://github.com/kroim/React-Redux-Saga.git
+cd React-Redux-Saga
 npm install
 npm start
 open http://localhost:8080  (should start automatically )
